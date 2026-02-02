@@ -1,9 +1,9 @@
 package io.github.natethegreatinc.enums.strings;
 
 public enum Company {
-    COMPANY_MOTO("Customers are great but they can be annoying."),
-    COMPANY_NAME("NateTheGreat Inc."),
-    COMPANY_TELEPHONE("1-800-NAT-GATE"),
+    COMPANY_MOTO("Customers are great and that has always been our position on the matter."),
+    COMPANY_NAME("NateTheGreat Incorporated."),
+    COMPANY_TELEPHONE("1-800-555-0199"),
     COMPANY_WEBSITE("www.NateTheGreatInc.com");
 
     private final String value;
