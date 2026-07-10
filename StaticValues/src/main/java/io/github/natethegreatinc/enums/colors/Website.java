@@ -1,8 +1,8 @@
 package io.github.natethegreatinc.enums.colors;
 
 public enum Website {
-    WEBSITE_FONT_COLOR("#444444"),
-    WEBSITE_BACKGROUND_COLOR("#F5F5F5");
+    WEBSITE_FONT_COLOR("#222222"),
+    WEBSITE_BACKGROUND_COLOR("#F4F5F5");
 
     private final String hexCode;
 

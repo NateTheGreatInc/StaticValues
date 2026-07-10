@@ -2,8 +2,8 @@ package io.github.natethegreatinc.enums.colors;
 
 public enum Logo {
 
-    LOGO_FONT_COLOR("#0000EE"),
-    LOGO_BACKGROUND_COLOR("#FFFFFF");
+    LOGO_FONT_COLOR("#0000CC"),
+    LOGO_BACKGROUND_COLOR("#FFFFEF");
 
     private final String hexCode;
 
